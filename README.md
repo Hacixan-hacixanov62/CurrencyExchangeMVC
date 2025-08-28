@@ -8,8 +8,7 @@ It allows users to convert values between **multiple currencies worldwide** (USD
 ## ✨ Features
 - 💱 Convert between **hundreds of currencies** (not limited to USD, EUR, AZN)  
 - 🌐 Real-time exchange rates from an external API  
-- 📊 Dynamic and responsive currency selection  
-- 🎨 Clean and modern UI  
+- 📊 Dynamic and responsive currency selection   
 - 🚀 Built on ASP.NET Core MVC architecture  
 
 ---
