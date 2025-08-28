@@ -27,3 +27,4 @@ D:\Asp.Net Task (PB-202)\CurrencyExchangeMVC\CurrencyExchangeMVC\obj\Debug\net8.
 D:\Asp.Net Task (PB-202)\CurrencyExchangeMVC\CurrencyExchangeMVC\obj\Debug\net8.0\CurrencyExchangeMVC.pdb
 D:\Asp.Net Task (PB-202)\CurrencyExchangeMVC\CurrencyExchangeMVC\obj\Debug\net8.0\CurrencyExchangeMVC.genruntimeconfig.cache
 D:\Asp.Net Task (PB-202)\CurrencyExchangeMVC\CurrencyExchangeMVC\obj\Debug\net8.0\ref\CurrencyExchangeMVC.dll
+D:\Asp.Net Task (PB-202)\CurrencyExchangeMVC\CurrencyExchangeMVC\obj\Debug\net8.0\CurrencyExchangeMVC.sourcelink.json
